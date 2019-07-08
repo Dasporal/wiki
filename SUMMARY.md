@@ -1,6 +1,11 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+
+## Ionic
+
 - [Ionic](ionic/ionic.md)
-  - [Facebook](ionic/facebook.md) 
-  - [Firebase](ionic/firebase.md)
+- [Firebase](ionic/firebase/firebase.md)
+  - [Setup](ionic/firebase/setup.md) 
+- [Social Authentication](ionic/auth/auth.md)
+  - [Facebook](ionic/auth/facebook.md) 
