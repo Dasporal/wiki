@@ -12,3 +12,4 @@
 
 ## Others
 - [Various](various/various.md)
+  - [MacOS](various/macos.md)
