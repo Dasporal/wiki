@@ -9,4 +9,6 @@
   - [Setup](ionic/firebase/setup.md) 
 - [Social Authentication](ionic/auth/auth.md)
   - [Facebook](ionic/auth/facebook.md) 
+
+## Others
 - [Various](various/various.md)
