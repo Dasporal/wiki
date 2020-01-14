@@ -1,4 +1,4 @@
-# MacOS
+# Plesk
 
 Various stuff with Plesk.
 
