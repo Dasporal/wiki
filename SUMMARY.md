@@ -13,3 +13,4 @@
 ## Others
 - [Various](various/various.md)
   - [MacOS](various/macos.md)
+  - [Plesk](various/plesk.md)
