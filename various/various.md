@@ -7,3 +7,5 @@ Anything that wouldn't find in its own category for now.
 [MacOS](macos.md)
 
 [Plesk](plesk.md)
+
+[Ubuntu](ubuntu.md)

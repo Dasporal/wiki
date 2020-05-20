@@ -14,3 +14,4 @@
 - [Various](various/various.md)
   - [MacOS](various/macos.md)
   - [Plesk](various/plesk.md)
+  - [Ubuntu](various/ubuntu.md)
