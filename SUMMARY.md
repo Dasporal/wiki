@@ -13,5 +13,6 @@
 ## Others
 - [Various](various/various.md)
   - [MacOS](various/macos.md)
+  - [NPM](various/npm.md)
   - [Plesk](various/plesk.md)
   - [Ubuntu](various/ubuntu.md)
